@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://octotech.in/assets/octotech-D3P7h6zX.png" width="150" alt="Company Logo">
+    <img src="https://www.octotech.in/octotech.png" width="150" alt="Company Logo">
     <h1>Octotech Technologies</h1>
     <p>Innovative IT Solutions | Web & Mobile Development | IT Support</p>
 </div>
