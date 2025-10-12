@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/229385174?s=200&v=4" width="150" alt="Company Logo">
+    <img src="https://octotech.in/assets/octotech-D3P7h6zX.png" width="150" alt="Company Logo">
     <h1>Octotech Technologies</h1>
     <p>Innovative IT Solutions | Web & Mobile Development | IT Support</p>
 </div>
